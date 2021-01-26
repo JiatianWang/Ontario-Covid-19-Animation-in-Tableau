@@ -10,3 +10,8 @@ As we can see from the left side, there is the Ontario map with city names. Diff
 If we look at the beginning of the epidemic, there was a small increase in the number of people diagnosed. In June, July, August, September the outbreak seems to be under control, with lower number of cases daily. However, by October, the confirmed cases surprisingly increased, and every day hit the new record.
 
 ![covid19](https://user-images.githubusercontent.com/32876600/105769538-f430bf80-5f2b-11eb-98f7-0cc09c50c1bc.JPG)
+
+Video:
+https://user-images.githubusercontent.com/32876600/105879898-bafe5b00-5fd0-11eb-94bd-2e05ce10a876.mp4
+
+
