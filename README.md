@@ -1,5 +1,5 @@
 # Ontario-Covid-19-Animation-in-Tableau
-I conducted an animation of Ontario Covid19 daily confirmed cases from 2020 Jan to 2021 Jan with Tableau.
+I conducted an animation of Ontario Covid19 daily confirmed cases from Jan 2020  to Jan 2021  with Tableau.
 
 I downloaded the data from the data Ontario website. This data set complies daily snapshots of publicly reported confirmed cases in Ontario. Data mainly includes reporting date, test outcomes, the geolocation of current patients, age group, patient gender and so on. 
 Before reading the data into the tableau, I loaded the data set into the Python to check if the dataset is proper organized. After that I derived the desire variable based on the test outcome.
@@ -28,15 +28,14 @@ Outcomes for Male and Female in different age groups
 
 ![agegroup](https://user-images.githubusercontent.com/32876600/106620595-b6d9bc80-653f-11eb-8dc5-272d8eb6e464.JPG)
 
-Overall, there were more women than men in all three outcomes.
+Overall:
 
-For both men and women, the highest number of people in the three categories of confirmed, cured and uncured are in their 20s. 
+Avoid being close contacted, keeping social distancing would be the only way to stop virus spread
 
-The number of people diagnosed and cured declines after the age of 60, but more women than men. 
+The infection rate of females and males is similar
 
-The number of deaths after 60 accounted for 95.6% of total deaths toll. 
+Young people are more likely to get the Covid with a low risk of dying. Old people have very high fatality rate.
 
-The fatality rate for both genders was very low under 50. The death rate for women is lower than for men. After the age of 80, female death rates rise, and male death rates decline.
 
 
 
