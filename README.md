@@ -18,6 +18,7 @@ There are 3 outcomes of resolved, not-resolved, fatal. The annimation and screen
 
 ![4 outcomes](https://user-images.githubusercontent.com/32876600/106620070-35822a00-653f-11eb-9fdd-611383bf6fda.JPG)
 
+Video:
 https://user-images.githubusercontent.com/32876600/106620393-85f98780-653f-11eb-8874-c4aaf368047b.mp4
 
 At the beginning of the epidemic, the fatality rate was relatively high from the end of March to the beginning of May, and the epidemic was well controlled from June to September, with low incidence and fatality rate. 
